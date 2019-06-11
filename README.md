@@ -1,5 +1,5 @@
 # Coac - Legends of Code and Magic 
-My bot for Strategy Card Game AI Competition CEC 2019
+My bot for [Strategy Card Game AI Competition](https://github.com/acatai/Strategy-Card-Game-AI-Competition) CEC 2019
 
 ## Building
 ```$xslt
